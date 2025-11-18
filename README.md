@@ -1,6 +1,13 @@
 # E-Commerce Data Cleanup Capstone
 
-A data cleaning tool for e-commerce product data that processes and validates product information from CSV files.
+>A data cleaning tool for e-commerce product data that processes and validates product information from CSV files.
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-blue)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red)](https://www.microsoft.com/sql-server)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
 
 ## Project Structure
 
