@@ -1,0 +1,7 @@
+sku,title,price,category,inventory,is_valid
+AB-100,Mountain Bike Tire,29.99,Tires,10,YES
+AB-100,Mountain Bike Tire,29.99,Tires,10,YES
+CD-200,Road Bike Pedals,45.0,Pedals,5,YES
+CD-200,Road Bike Pedals,45.0,Pedals,5,YES
+EF-300,Helmet Large,0.0,Accessories,0,NO
+NAN,Water Bottle,12.5,Accessories,20,YES

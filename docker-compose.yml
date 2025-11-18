@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  cleaner:
+    build: .
+    container_name: product-cleaner
+    volumes:
+      - ./data:/app/data
+    command: ["python", "cleaner.py"]

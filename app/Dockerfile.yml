@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  cleaner:
+    build: .
+    container_name: product-cleaner
+    working_dir: /app
+    volumes:
+      - ./data:/app/data          # <-- This ensures output writes to YOUR machine
+    command: ["python", "src/cleaner.py"]
