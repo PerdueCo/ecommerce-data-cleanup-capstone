@@ -395,7 +395,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, feedback, or issues about this project:
 - Open an issue on GitHub
-- [Your Name] - [Your Email or GitHub Profile]
+- Clarence Perdue Jr. - [Your Email or GitHub Profile]
 
 ## 🙏 Acknowledgments
 
