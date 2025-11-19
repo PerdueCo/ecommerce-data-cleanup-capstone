@@ -1,7 +1,187 @@
 sku,title,price,category,inventory,is_valid
-AB-100,Mountain Bike Tire,29.99,Tires,10,YES
-AB-100,Mountain Bike Tire,29.99,Tires,10,YES
-CD-200,Road Bike Pedals,45.0,Pedals,5,YES
-CD-200,Road Bike Pedals,45.0,Pedals,5,YES
-EF-300,Helmet Large,0.0,Accessories,0,NO
-NAN,Water Bottle,12.5,Accessories,20,YES
+AB-100,Mountain Bike Tire,29.99,Tires,10.0,YES
+AB-100,Mountain Bike Tire,29.99,Tires,10.0,YES
+AB-100,Mountain Bike Tire,29.99,Tires,10.0,YES
+CD-200,Road Bike Pedals,45.0,Pedals,5.0,YES
+CD-200,Road Bike Pedals,45.0,Pedals,5.0,YES
+CD-200,Road Bike Pedals,45.0,Pedals,5.0,YES
+EF-300,Helmet Large,0.0,Accessories,0.0,NO
+EF-300,Helmet Large,0.0,Accessories,0.0,NO
+EF-300,Helmet Large,0.0,Accessories,0.0,NO
+NAN,Water Bottle,12.5,Accessories,20.0,YES
+GH-400,Nan,19.99,Bottles,15.0,YES
+IJ-500,Bike Chain,-5.0,Parts,8.0,NO
+KL-600,Seat Cover,99.99,Nan,12.0,YES
+MN-700,Bike Lock,35.5,Security,7.0,YES
+OP-800,Handlebar Grips,15.99,Grips,0.0,YES
+QR-900,Bike Bell,0.0,Accessories,25.0,NO
+ST-100,Repair Kit,0.0,Tools,30.0,NO
+UV-200,Reflector Set,8.5,Safety,0.0,YES
+WX-300,Pump,22.0,Accessories,18.0,YES
+YZ-400,Tool Kit,42.99,Tools,6.0,YES
+BC-101,Mountain Bike Tire,29.99,Tires,12.0,YES
+BC-101,Mountain Bike Tire,29.99,Tires,15.0,YES
+DE-202,Road Bike Pedals,45.5,Pedals,8.0,YES
+DE-202,Road Bike Pedals,45.5,Pedals,7.0,YES
+FG-303,Helmet Medium,0.0,Accessories,0.0,NO
+FG-303,Helmet Medium,0.0,Accessories,5.0,NO
+HI-404,Water Bottle,12.99,Accessories,22.0,YES
+NAN,Insulated Bottle,15.0,Bottles,18.0,YES
+JK-505,Bike Chain,32.0,Parts,0.0,YES
+KL-606,Chain Tool,28.5,Parts,9.0,YES
+LM-707,Seat Cover,89.99,Seats,11.0,YES
+LM-707,Seat Cover,89.99,Seats,13.0,YES
+NO-808,Cable Lock,25.0,Security,0.0,YES
+NO-808,Cable Lock,25.0,Security,0.0,YES
+PQ-909,Foam Grips,18.99,Nan,16.0,YES
+RS-110,Safety Bell,9.99,Safety,20.0,YES
+RS-110,Safety Bell,9.99,Safety,0.0,YES
+TU-211,Tool Kit,45.0,Tools,14.0,YES
+TU-211,Tool Kit,0.0,Tools,12.0,NO
+VW-312,Light Set,32.5,Safety,0.0,YES
+XY-413,Mini Pump,19.99,Accessories,25.0,YES
+XY-413,Mini Pump,19.99,Accessories,30.0,YES
+ZA-514,Cycling Gloves,22.0,Clothing,8.0,YES
+ZA-514,Cycling Gloves,-22.0,Clothing,0.0,NO
+AB-615,Jersey,55.0,Clothing,10.0,YES
+AB-615,Jersey,55.0,Clothing,12.0,YES
+CD-716,Bike Computer,89.99,Electronics,6.0,YES
+CD-716,Bike Computer,89.99,Electronics,0.0,YES
+EF-817,Speedometer,75.5,Nan,15.0,YES
+EF-817,Speedometer,75.5,Electronics,0.0,YES
+GH-918,Hybrid Tire,35.0,Tires,20.0,YES
+GH-918,Hybrid Tire,0.0,Tires,0.0,NO
+IJ-019,Mountain Pedals,52.0,Pedals,18.0,YES
+IJ-019,Mountain Pedals,52.0,Pedals,22.0,YES
+KL-120,Clipless Pedals,68.99,Pedals,0.0,YES
+KL-120,Clipless Pedals,68.99,Pedals,0.0,YES
+MN-221,Helmet Small,45.0,Accessories,14.0,YES
+MN-221,Helmet Small,0.0,Accessories,0.0,NO
+OP-322,Sport Bottle,14.5,Bottles,28.0,YES
+OP-322,Sport Bottle,14.5,Bottles,30.0,YES
+QR-423,Chain Lube,8.99,Parts,35.0,YES
+QR-423,Chain Lube,-8.99,Parts,0.0,NO
+ST-524,Gel Seat,72.0,Seats,9.0,YES
+ST-524,Gel Seat,72.0,Seats,11.0,YES
+UV-625,Racing Seat,95.0,Nan,7.0,YES
+UV-625,Racing Seat,95.0,Seats,0.0,YES
+WX-726,U-Lock,38.5,Security,16.0,YES
+WX-726,U-Lock,0.0,Security,0.0,NO
+YZ-827,Rubber Grips,16.99,Grips,24.0,YES
+YZ-827,Rubber Grips,16.99,Grips,0.0,YES
+BC-928,Horn,11.5,Safety,19.0,YES
+BC-928,Horn,11.5,Safety,0.0,YES
+DE-029,Patch Kit,12.0,Tools,0.0,YES
+DE-029,Patch Kit,12.0,Tools,26.0,YES
+FG-130,Safety Vest,29.99,Safety,13.0,YES
+FG-130,Safety Vest,0.0,Safety,0.0,NO
+HI-231,Floor Pump,45.0,Accessories,10.0,YES
+HI-231,Floor Pump,45.0,Accessories,0.0,YES
+JK-332,Bike Shorts,38.5,Clothing,15.0,YES
+JK-332,Bike Shorts,-38.5,Clothing,0.0,NO
+KL-433,Gps Device,125.0,Nan,8.0,YES
+KL-433,Gps Device,125.0,Electronics,12.0,YES
+MN-534,Road Bike Tire,32.0,Tires,22.0,YES
+MN-534,Road Bike Tire,32.0,Tires,0.0,YES
+NO-635,Insulated Bottle,17.5,Bottles,18.0,YES
+NO-635,Insulated Bottle,0.0,Bottles,20.0,NO
+PQ-736,Chain Tool,26.0,Parts,0.0,YES
+PQ-736,Chain Tool,26.0,Parts,0.0,YES
+RS-837,Bike Lock,33.99,Security,14.0,YES
+RS-837,Bike Lock,33.99,Security,0.0,YES
+TU-938,Handlebar Grips,19.5,Grips,25.0,YES
+TU-938,Handlebar Grips,19.5,Grips,28.0,YES
+VW-039,Repair Kit,41.0,Tools,0.0,YES
+VW-039,Repair Kit,0.0,Tools,16.0,NO
+XY-140,Reflector Set,9.99,Safety,30.0,YES
+XY-140,Reflector Set,9.99,Safety,0.0,YES
+ZA-241,Water Bottle,13.5,Nan,24.0,YES
+ZA-241,Water Bottle,13.5,Bottles,26.0,YES
+AB-342,Mountain Bike Tire,31.0,Tires,0.0,YES
+AB-342,Mountain Bike Tire,31.0,Tires,0.0,YES
+CD-443,Helmet Large,48.5,Accessories,11.0,YES
+CD-443,Helmet Large,48.5,Accessories,0.0,YES
+EF-544,Road Bike Pedals,47.0,Pedals,19.0,YES
+EF-544,Road Bike Pedals,47.0,Pedals,21.0,YES
+GH-645,Bike Chain,34.5,Nan,15.0,YES
+GH-645,Bike Chain,0.0,Parts,0.0,NO
+IJ-746,Seat Cover,92.0,Seats,13.0,YES
+IJ-746,Seat Cover,92.0,Seats,0.0,YES
+KL-847,Cable Lock,27.5,Security,0.0,YES
+KL-847,Cable Lock,27.5,Security,23.0,YES
+MN-948,Foam Grips,20.0,Grips,17.0,YES
+MN-948,Foam Grips,20.0,Grips,0.0,YES
+NO-049,Safety Bell,10.5,Safety,29.0,YES
+NO-049,Safety Bell,0.0,Safety,0.0,NO
+PQ-150,Tool Kit,48.0,Tools,12.0,YES
+PQ-150,Tool Kit,48.0,Tools,14.0,YES
+RS-251,Light Set,35.0,Nan,20.0,YES
+RS-251,Light Set,35.0,Safety,0.0,YES
+TU-352,Mini Pump,21.5,Accessories,0.0,YES
+TU-352,Mini Pump,21.5,Accessories,0.0,YES
+VW-453,Cycling Gloves,24.0,Clothing,9.0,YES
+VW-453,Cycling Gloves,0.0,Clothing,11.0,NO
+XY-554,Jersey,58.0,Clothing,0.0,YES
+XY-554,Jersey,58.0,Clothing,15.0,YES
+ZA-655,Bike Computer,92.5,Electronics,7.0,YES
+ZA-655,Bike Computer,92.5,Electronics,0.0,YES
+AB-756,Speedometer,78.0,Nan,18.0,YES
+AB-756,Speedometer,78.0,Electronics,0.0,YES
+CD-857,Hybrid Tire,36.5,Tires,24.0,YES
+CD-857,Hybrid Tire,36.5,Tires,0.0,YES
+EF-958,Mountain Pedals,54.0,Pedals,0.0,YES
+EF-958,Mountain Pedals,54.0,Pedals,20.0,YES
+GH-059,Clipless Pedals,71.0,Pedals,16.0,YES
+GH-059,Clipless Pedals,0.0,Pedals,0.0,NO
+IJ-160,Helmet Small,47.5,Accessories,0.0,YES
+IJ-160,Helmet Small,47.5,Accessories,13.0,YES
+KL-261,Sport Bottle,15.5,Bottles,27.0,YES
+KL-261,Sport Bottle,-15.5,Bottles,0.0,NO
+MN-362,Chain Lube,9.5,Nan,32.0,YES
+MN-362,Chain Lube,9.5,Parts,34.0,YES
+NO-463,Gel Seat,75.0,Seats,10.0,YES
+NO-463,Gel Seat,75.0,Seats,0.0,YES
+PQ-564,Racing Seat,98.0,Seats,0.0,YES
+PQ-564,Racing Seat,98.0,Seats,0.0,YES
+RS-665,U-Lock,40.0,Security,17.0,YES
+RS-665,U-Lock,0.0,Security,19.0,NO
+TU-766,Rubber Grips,18.0,Grips,0.0,YES
+TU-766,Rubber Grips,18.0,Grips,23.0,YES
+VW-867,Horn,12.5,Safety,21.0,YES
+VW-867,Horn,12.5,Safety,0.0,YES
+XY-968,Patch Kit,13.0,Tools,0.0,YES
+XY-968,Patch Kit,13.0,Tools,25.0,YES
+ZA-069,Safety Vest,31.5,Safety,0.0,YES
+ZA-069,Safety Vest,0.0,Safety,0.0,NO
+AB-170,Floor Pump,47.0,Accessories,11.0,YES
+BC-271,Bike Shorts,40.0,Clothing,0.0,YES
+BC-271,Bike Shorts,40.0,Clothing,16.0,YES
+DE-372,Gps Device,128.0,Electronics,9.0,YES
+DE-372,Gps Device,128.0,Electronics,0.0,YES
+FG-473,Road Bike Tire,33.5,Nan,23.0,YES
+FG-473,Road Bike Tire,33.5,Tires,0.0,YES
+HI-574,Insulated Bottle,18.5,Bottles,0.0,YES
+HI-574,Insulated Bottle,18.5,Bottles,21.0,YES
+JK-675,Chain Tool,28.0,Parts,15.0,YES
+JK-675,Chain Tool,28.0,Parts,0.0,YES
+KL-776,Bike Lock,35.5,Security,0.0,YES
+MN-877,Handlebar Grips,20.5,Grips,27.0,YES
+MN-877,Handlebar Grips,20.5,Grips,0.0,YES
+NO-978,Repair Kit,43.0,Tools,17.0,YES
+NO-978,Repair Kit,43.0,Tools,0.0,YES
+PQ-079,Reflector Set,10.5,Safety,0.0,YES
+PQ-079,Reflector Set,0.0,Safety,0.0,NO
+RS-180,Water Bottle,14.0,Bottles,25.0,YES
+RS-180,Water Bottle,14.0,Bottles,0.0,YES
+TU-281,Mountain Bike Tire,32.5,Tires,12.0,YES
+TU-281,Mountain Bike Tire,0.0,Tires,14.0,NO
+VW-382,Helmet Large,50.0,Accessories,0.0,YES
+VW-382,Helmet Large,50.0,Accessories,10.0,YES
+XY-483,Road Bike Pedals,49.0,Pedals,0.0,YES
+XY-483,Road Bike Pedals,49.0,Pedals,0.0,YES
+ZA-584,Bike Chain,36.0,Nan,16.0,YES
+ZA-584,Bike Chain,36.0,Parts,0.0,YES
+AB-685,Seat Cover,94.5,Seats,14.0,YES
+AB-685,Seat Cover,94.5,Seats,0.0,YES
+CD-786,Cable Lock,29.0,Security,0.0,YES
+CD-786,Cable Lock,29.0,Security,24.0,YES

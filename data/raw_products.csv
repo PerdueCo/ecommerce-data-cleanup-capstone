@@ -1,7 +1,187 @@
 sku,title,price,category,inventory
- ab-100 ,mountain bike tire,29.99,tires,10
-AB100,Mountain BIKE TIRE,29.99,TIRES ,10
-cd200,Road Bike Pedals,45,Pedal,5
-CD-200,road  bike  pedals ,45.00 ,PEDALS,5
-EF300,Helmet  LARGE,, Accessories,-3
-,water bottle,12.5,accessory,20
+AB-100,Mountain Bike Tire,29.99,Tires,10
+ab-100,mountain bike tire,29.99,tires,10
+AB 100,Mountain Bike Tire ,29.99, Tires,10
+CD-200,Road Bike Pedals,45.00,Pedals,5
+cd-200,Road Bike Pedals,45.0,Pedals,5
+CD200,Road Bike Pedals,45,pedals,5
+EF-300,Helmet Large,0.00,Accessories,0
+ef-300,HELMET LARGE,,Accessories,0
+EF 300,Helmet Large,0,accessories,0
+,Water Bottle,12.50,Accessories,20
+GH-400,,19.99,Bottles,15
+IJ-500,Bike Chain,-5.00,Parts,8
+KL-600,Seat Cover,99.99,,12
+MN-700,Bike Lock  ,  35.50,Security  ,  7
+OP-800,Handlebar Grips,15.99,Grips,-3
+QR-900,Bike Bell,,Accessories,25
+ST-100,Repair Kit,invalid,Tools,30
+UV-200,Reflector Set,8.50,Safety,
+WX-300,Pump,22.00,ACCESSORIES,18
+YZ-400,tool kit,42.99,Tools,6
+BC-101,MOUNTAIN BIKE TIRE,29.99,TIRES,12
+bc 101,Mountain Bike Tire, 29.99 ,Tires ,15
+DE-202, Road Bike Pedals ,45.50,Pedals,8
+de-202,road bike pedals,45.5,pedals, 7
+FG-303,Helmet Medium,0,Accessories,0
+fg303,helmet medium,,accessories,5
+HI-404,Water Bottle ,12.99, Accessories,22
+,Insulated Bottle,15.00,Bottles,18
+JK-505,Bike Chain,32.00,Parts,
+kl-606,CHAIN TOOL,28.50,PARTS,9
+LM-707,Seat Cover ,89.99,Seats,11
+lm 707,seat cover, 89.99 , Seats ,13
+NO-808,Cable Lock,25.00,Security,-5
+no-808,cable lock,25,security,0
+PQ-909,Foam Grips,18.99,,16
+RS-110, Safety Bell ,9.99,Safety,20
+rs110,safety bell, 9.99 ,safety ,0
+TU-211,Tool Kit,45.00,Tools,14
+tu-211,TOOL KIT,invalid,TOOLS,12
+VW-312,Light Set,32.50,Safety,
+XY-413,Mini Pump,19.99,Accessories,25
+xy 413,mini pump, 19.99 , accessories ,30
+ZA-514,Cycling Gloves,22.00,Clothing,8
+za-514,cycling gloves,-22.00,clothing,
+AB-615,Jersey,55.00,Clothing,10
+ab615,JERSEY,55,CLOTHING,12
+CD-716, Bike Computer ,89.99,Electronics,6
+cd-716,bike computer, 89.99 , electronics ,-2
+EF-817,Speedometer,75.50,,15
+ef 817,speedometer,75.5,Electronics,0
+GH-918,Hybrid Tire,35.00,Tires,20
+gh-918,HYBRID TIRE,,tires,
+IJ-019,Mountain Pedals,52.00,Pedals,18
+ij019,mountain pedals, 52.00 ,pedals ,22
+KL-120,Clipless Pedals,68.99,Pedals,-8
+kl 120, clipless pedals ,68.99, Pedals,0
+MN-221,Helmet Small,45.00,Accessories,14
+mn-221,helmet small,invalid,accessories,
+OP-322,Sport Bottle,14.50,Bottles,28
+op322,SPORT BOTTLE, 14.50 , BOTTLES ,30
+QR-423,Chain Lube,8.99,Parts,35
+qr-423,chain lube,-8.99,parts,
+ST-524, Gel Seat ,72.00,Seats,9
+st 524,gel seat, 72.00 ,Seats ,11
+UV-625,Racing Seat,95.00,,7
+uv-625,RACING SEAT,95,Seats,0
+WX-726,U-Lock,38.50,Security,16
+wx726,u-lock,,security,
+YZ-827,Rubber Grips,16.99,Grips,24
+yz 827, rubber grips , 16.99 , grips ,0
+BC-928,Horn,11.50,Safety,19
+bc-928,HORN,11.5,SAFETY,-5
+DE-029,Patch Kit,12.00,Tools,
+de029,patch kit, 12.00 ,tools ,26
+FG-130, Safety Vest ,29.99,Safety,13
+fg-130,safety vest,invalid,safety,
+HI-231,Floor Pump,45.00,Accessories,10
+hi 231,FLOOR PUMP, 45.00 , ACCESSORIES ,0
+JK-332,Bike Shorts,38.50,Clothing,15
+jk-332,bike shorts,-38.50,clothing,
+KL-433,GPS Device,125.00,,8
+kl433,gps device, 125.00 ,Electronics ,12
+MN-534,Road Bike Tire,32.00,Tires,22
+mn 534, road bike tire ,32,tires ,
+NO-635,Insulated Bottle,17.50,Bottles,18
+no-635,INSULATED BOTTLE,,bottles,20
+PQ-736,Chain Tool,26.00,Parts,-7
+pq-736,chain tool, 26.00 , parts ,0
+RS-837, Bike Lock ,33.99,Security,14
+rs837,bike lock,33.99,security,
+TU-938,Handlebar Grips,19.50,Grips,25
+tu 938, handlebar grips , 19.50 , grips ,28
+VW-039,Repair Kit,41.00,Tools,
+vw-039,REPAIR KIT,invalid,TOOLS,16
+XY-140,Reflector Set,9.99,Safety,30
+xy-140,reflector set, 9.99 ,safety ,0
+ZA-241,Water Bottle,13.50,,24
+za 241,water bottle, 13.50 , Bottles ,26
+AB-342,Mountain Bike Tire,31.00,Tires,-9
+ab-342,MOUNTAIN BIKE TIRE,31,tires,0
+CD-443, Helmet Large ,48.50,Accessories,11
+cd443,helmet large, 48.50 ,accessories ,
+EF-544,Road Bike Pedals,47.00,Pedals,19
+ef 544, road bike pedals ,47,pedals ,21
+GH-645,Bike Chain,34.50,,15
+gh-645,BIKE CHAIN,,Parts,0
+IJ-746,Seat Cover,92.00,Seats,13
+ij746,seat cover, 92.00 , seats ,-4
+KL-847, Cable Lock ,27.50,Security,
+kl-847,cable lock,27.5,security,23
+MN-948,Foam Grips,20.00,Grips,17
+mn 948, foam grips , 20.00 , grips ,0
+NO-049,Safety Bell,10.50,Safety,29
+no-049,SAFETY BELL,invalid,SAFETY,
+PQ-150,Tool Kit,48.00,Tools,12
+pq150,tool kit, 48.00 ,tools ,14
+RS-251, Light Set ,35.00,,20
+rs-251,light set,35,Safety,0
+TU-352,Mini Pump,21.50,Accessories,-6
+tu 352, mini pump , 21.50 , accessories ,
+VW-453,Cycling Gloves,24.00,Clothing,9
+vw-453,CYCLING GLOVES,,clothing,11
+XY-554,Jersey,58.00,Clothing,
+xy554,jersey, 58.00 ,CLOTHING ,15
+ZA-655, Bike Computer ,92.50,Electronics,7
+za-655,bike computer,92.5,electronics,0
+AB-756,Speedometer,78.00,,18
+ab 756, speedometer , 78.00 , Electronics ,
+CD-857,Hybrid Tire,36.50,Tires,24
+cd-857,HYBRID TIRE,36.5,tires,-8
+EF-958,Mountain Pedals,54.00,Pedals,
+ef958,mountain pedals, 54.00 ,pedals ,20
+GH-059, Clipless Pedals ,71.00,Pedals,16
+gh-059,clipless pedals,invalid,Pedals,0
+IJ-160,Helmet Small,47.50,Accessories,
+ij 160, helmet small , 47.50 , accessories ,13
+KL-261,Sport Bottle,15.50,Bottles,27
+kl-261,SPORT BOTTLE,-15.50,BOTTLES,
+MN-362,Chain Lube,9.50,,32
+mn362,chain lube, 9.50 ,Parts ,34
+NO-463, Gel Seat ,75.00,Seats,10
+no-463,gel seat,75,seats ,0
+PQ-564,Racing Seat,98.00,Seats,-3
+pq 564, racing seat , 98.00 , Seats ,
+RS-665,U-Lock,40.00,Security,17
+rs-665,U-LOCK,,security,19
+TU-766,Rubber Grips,18.00,Grips,
+tu766,rubber grips, 18.00 , grips ,23
+VW-867, Horn ,12.50,Safety,21
+vw-867,horn,12.5,SAFETY,0
+XY-968,Patch Kit,13.00,Tools,
+xy 968, patch kit , 13.00 , tools ,25
+ZA-069,Safety Vest,31.50,Safety,-7
+za-069,SAFETY VEST,invalid,safety,
+AB-170,Floor Pump,47.00,Accessories,11
+bc-271, Bike Shorts ,40.00,Clothing,
+bc271,bike shorts, 40.00 ,clothing ,16
+DE-372,GPS Device,128.00,Electronics,9
+de 372, gps device , 128.00 , electronics ,0
+FG-473,Road Bike Tire,33.50,,23
+fg-473,ROAD BIKE TIRE,33.5,Tires,-5
+HI-574,Insulated Bottle,18.50,Bottles,
+hi574,insulated bottle, 18.50 , bottles ,21
+JK-675, Chain Tool ,28.00,Parts,15
+jk-675,chain tool,28,parts,0
+KL-776,Bike Lock,35.50,Security,
+mn-877, handlebar grips , 20.50 , Grips ,27
+MN-877,Handlebar Grips,20.50,grips,
+NO-978,Repair Kit,43.00,Tools,17
+no 978, repair kit , 43.00 , tools ,0
+PQ-079,Reflector Set,10.50,Safety,-9
+pq-079,REFLECTOR SET,,SAFETY,
+RS-180,Water Bottle,14.00,Bottles,25
+rs180,water bottle, 14.00 ,bottles ,
+TU-281, Mountain Bike Tire ,32.50,Tires,12
+tu-281,mountain bike tire,invalid,tires,14
+VW-382,Helmet Large,50.00,Accessories,
+vw 382, helmet large , 50.00 , accessories ,10
+XY-483,Road Bike Pedals,49.00,Pedals,0
+xy-483,ROAD BIKE PEDALS,49,pedals,-6
+ZA-584,Bike Chain,36.00,,16
+za584,bike chain, 36.00 ,Parts ,
+AB-685, Seat Cover ,94.50,Seats,14
+ab-685,seat cover,94.5,seats,0
+CD-786,Cable Lock,29.00,Security,
+cd 786, cable lock , 29.00 , security ,24
